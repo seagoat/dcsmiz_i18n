@@ -1,5 +1,7 @@
 # DCS MIZ Localization & Logic Explorer (DCSLOC)
 
+> **Context**: [DCS World](https://www.digitalcombatsimulator.com/) (Digital Combat Simulator World) is a premier free-to-play military flight simulation game. Its mission files (.miz) contain highly complex trigger logic, voice-overs, and multimedia briefings.
+
 An advanced management and analysis tool for DCS World mission files (.miz). It enables quick multi-language support and provides deep insights into the relationship between mission trigger logic and media assets.
 
 ## 🌟 Key Features
