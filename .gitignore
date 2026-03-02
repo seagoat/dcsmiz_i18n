@@ -15,6 +15,10 @@ ref/
 uploads/
 temp_l10n/
 temp_sample/
+# Ignore extracted mission folders
+R1 M01*/
+CI_04*/
+mission_extracted/
 
 # Data & Extraction
 *.json
