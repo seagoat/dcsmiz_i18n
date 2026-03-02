@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.venv/
+env/
+venv/
+ENV/
+
+# DCS Mission Files (Protecting IP)
+*.miz
+ref/
+uploads/
+temp_l10n/
+temp_sample/
+
+# Data & Extraction
+*.json
+!example_translation.json
+
+# Logs
+*.log
+server_log.txt
+server_debug.txt
+server_final_log.txt
+
+# OS files
+.DS_Store
+Thumbs.db
