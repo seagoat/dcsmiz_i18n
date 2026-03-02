@@ -11,6 +11,18 @@
 *   **高性能架构**：采用虚拟列表（Virtual Scroll）技术，流畅处理包含数千资源的巨型任务。
 *   **增量本地化**：仅打包有差异的内容，极大减小生成的 MIZ 体积。
 
+## 📸 界面预览 (Screenshots)
+
+| 文本与翻译对照 (Text Dictionary) | 多媒体资源关联 (Media Assets) |
+| :---: | :---: |
+| <img src="docs/screen_text.png" width="400" alt="文本对比"> | <img src="docs/screen_media.png" width="400" alt="资源与台词关联"> |
+| *高对比度界面，未翻译内容自动显示 Default 回退标记。* | *实时预览音频和图片，自动显示资源在实机中对应的台词文本。* |
+
+| 任务逻辑树 (Mission Tree) | 全包引用扫描 (Global Reference) |
+| :---: | :---: |
+| <img src="docs/screen_tree.png" width="400" alt="任务树过滤"> | <img src="docs/screen_links.png" width="400" alt="双向关联跳转"> |
+| *开启“聚焦资源”，过滤数千行无关代码，直击核心逻辑。* | *标识 Key 下方清晰展示该资源被哪些文件和触发器引用。* |
+
 ## 🚀 部署与运行
 
 ### 1. 环境准备

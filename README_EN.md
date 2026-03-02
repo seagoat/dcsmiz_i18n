@@ -11,6 +11,18 @@ An advanced management and analysis tool for DCS World mission files (.miz). It 
 *   **High Performance**: Powered by Virtual Scroll technology to handle massive missions with thousands of resources smoothly.
 *   **Incremental Localization**: Only packages modified content, keeping generated MIZ file sizes minimal.
 
+## 📸 Screenshots
+
+| Text Dictionary | Media Assets |
+| :---: | :---: |
+| <img src="docs/screen_text.png" width="400" alt="Text Comparison"> | <img src="docs/screen_media.png" width="400" alt="Media Asset Links"> |
+| *High contrast UI with fallback tags for untranslated content.* | *Real-time audio/image preview with context subtitles attached.* |
+
+| Mission Tree | Global Reference Scan |
+| :---: | :---: |
+| <img src="docs/screen_tree.png" width="400" alt="Filtered Mission Tree"> | <img src="docs/screen_links.png" width="400" alt="Bidirectional Linking"> |
+| *Enable 'Focus Resources' to filter out thousands of lines of noise.* | *Usage badges show exactly which files and triggers use the asset.* |
+
 ## 🚀 Deployment & Running
 
 ### 1. Prerequisites
